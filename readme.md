@@ -15,7 +15,8 @@ Mac下安装pygame的步骤相对比较复杂,我折腾过后专门写过一篇�
 来自crossin大神的论坛:[crossin编程教室][3]
 
 ##心得
-第一次用Python写小游戏,在idle下编写,不懂怎么用MVC,只能将不同的类分开文件,
+第一次用Python写小游戏,在idle下编写,不懂怎么用MVC,只能将不同的类分开文件,实现功能有限,暂且将这个定为1.0版本吧
+
 
   [1]: http://sherlockz.github.io/2016/06/01/Installing-Pygame/
   [2]: http://www.6m5m.com/shop_list-path-S476A2.html
